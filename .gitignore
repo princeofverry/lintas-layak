@@ -1,0 +1,2 @@
+# Ignore Lib and Library folders inside env
+venv
