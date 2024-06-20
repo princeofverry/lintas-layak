@@ -6,6 +6,10 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
 
 1. Aktifkan lingkungan virtual dengan perintah berikut pada Command Prompt:
 
+   ```
+   py -m venv venv
+   ```
+
    ```sh
    venv\Scripts\activate
    ```
@@ -36,12 +40,15 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
 
 ## Cara Penggunaan
 
-buat 2 terminal
+### buat 2 terminal
+
 terminal pertama
 `cd front-end`
+`npm i`
 `npm run dev`
 
-terminal kedua
+### terminal kedua
+
 `venv\Scripts\activate`
 
 ## Catatan
