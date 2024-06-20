@@ -30,9 +30,9 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
 
 ```
 .
-├── venv/
-├── src/
-│   ├── main.py
+├── front-end/
+├── api/
+│   ├── app.py
 │   └── ...
 ├── requirements.txt
 └── README.md
