@@ -43,9 +43,18 @@ Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
 ### buat 2 terminal
 
 terminal pertama
-`cd front-end`
-`npm i`
-`npm run dev`
+
+```
+cd front-end
+```
+
+```
+npm i
+```
+
+```
+npm run dev
+```
 
 ### terminal kedua
 
